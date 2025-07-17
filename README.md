@@ -1,4 +1,4 @@
-# first-project-
+# First-Project-
 first project
 # Parameter Optimization
 
